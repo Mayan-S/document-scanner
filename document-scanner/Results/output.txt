@@ -1,0 +1,8 @@
+MURTAZA'S
+WORKSHOP
+DOCUMENT SCANNER
+USING OPENCV
+Keywords
+OpencV, Python, Contours, Corner Detection,
+Thresholding, Edge Detection, Webcam Feed,
+Warp Prespective, GrayScale, Image Stacking.
