@@ -3,7 +3,8 @@ Description: This C++ application is a document scanner and OCR (Optical Charact
 Program In Use:
 1. User Input: The user is prompted to select a document image (1–8).
 
-![Screenshot 2025-06-25 231938](https://github.com/user-attachments/assets/ba2218a3-2d39-40eb-844e-f0de34200900)
+![Screenshot 2025-06-25 231938](https://github.com/user-attachments/assets/0d7b3c66-12d8-4b2a-9c6d-104d01c7acb5)
+
 
 2. Image Loading: The selected image is loaded from the Resources/ folder.
 3. Preprocessing: The image is converted to grayscale, blurred, and edges are detected.
@@ -11,7 +12,8 @@ Program In Use:
 5. Warping & Cropping: The document is warped to a flat, top-down view and cropped.
 
 BEFORE:
-![Screenshot 2025-06-25 232045](https://github.com/user-attachments/assets/1d7a3590-8106-49f7-ba28-3fcd78bcedaf)
+
+![document_4](https://github.com/user-attachments/assets/bb3d9877-4666-41ba-95f8-1a167de013bf)
 
 AFTER:
 ![Screenshot 2025-06-25 232127](https://github.com/user-attachments/assets/562c3028-eede-4066-b406-76708eece1e4)
