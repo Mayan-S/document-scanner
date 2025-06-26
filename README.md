@@ -12,7 +12,6 @@ Program In Use:
 5. Warping & Cropping: The document is warped to a flat, top-down view and cropped.
 
 BEFORE:
-
 ![document_4](https://github.com/user-attachments/assets/bb3d9877-4666-41ba-95f8-1a167de013bf)
 
 AFTER:
@@ -26,5 +25,3 @@ AFTER:
 ![Screenshot 2025-06-25 232416](https://github.com/user-attachments/assets/709a0900-386e-46f9-b167-8c8073838624)
 
 ![Screenshot 2025-06-25 232356](https://github.com/user-attachments/assets/fe43ee14-e75e-456a-b453-5956be54737e)
-
-![Screenshot 2025-06-25 232244](https://github.com/user-attachments/assets/5b0f8f8c-bca6-46a3-8093-30bdc578b278)
