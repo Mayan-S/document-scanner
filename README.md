@@ -1,6 +1,9 @@
-Description: This C++ application is a document scanner and OCR (Optical Character Recognition) tool built using OpenCV and Tesseract OCR. It allows users to select a document image, automatically detects and extracts the document from the image, applies perspective correction, and then performs OCR to extract the text content. The scanned image and the recognized text are saved in the results folder for future use.
+**Description:**
+This C++ application is a document scanner and OCR (Optical Character Recognition) tool built using OpenCV and Tesseract OCR. It allows users to select a document image, automatically detects and extracts the document from the image, applies perspective correction, and then performs OCR to extract the text content. The scanned image and the recognized text are saved in the results folder for future use.
 
-Program In Use:
+<br /> 
+
+**Program In Use:**
 1. User Input: The user is prompted to select a document image (1–8).
 
 ![Screenshot 2025-06-25 231938](https://github.com/user-attachments/assets/0d7b3c66-12d8-4b2a-9c6d-104d01c7acb5)
